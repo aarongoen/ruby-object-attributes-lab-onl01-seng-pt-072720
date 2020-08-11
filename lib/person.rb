@@ -12,6 +12,6 @@ class Person
   end 
   
   def job 
-    @job = job_type
+    @job 
   end 
 end 
