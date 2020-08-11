@@ -15,3 +15,13 @@ class Dog
     @breed = breed_type
   end 
 end 
+
+class Person
+  def job=(job_type)
+    @this_persons_job = job_type
+  end 
+  
+  def job 
+    @job = job_type
+  end 
+end 
